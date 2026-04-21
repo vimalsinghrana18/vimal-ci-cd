@@ -1,0 +1,21 @@
+Visual Studio Solution File
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApi", "SampleApi\SampleApi.csproj", "{3A719FA5-0A3A-4F38-87C1-B7C2BF58D702}"
+EndProject
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApi.Tests", "SampleApi.Tests\SampleApi.Tests.csproj", "{9B61F7B0-1A12-4D67-B1A8-CF713339E194}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3A719FA5-0A3A-4F38-87C1-B7C2BF58D702}.Debug = Debug
+		{3A719FA5-0A3A-4F38-87C1-B7C2BF58D702}.Release = Release
+		{9B61F7B0-1A12-4D67-B1A8-CF713339E194}.Debug = Debug
+		{9B61F7B0-1A12-4D67-B1A8-CF713339E194}.Release = Release
+	EndGlobalSection
+EndGlobal
